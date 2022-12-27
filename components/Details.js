@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     // Styles
     movieImg: {
         width: "100%",
-        height: "50%",
+        height: "100%",
         resizeMode: 'contain',
         overflow: 'hidden',
     },
